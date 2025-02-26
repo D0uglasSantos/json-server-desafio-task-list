@@ -1,22 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": "0444",
-      "name": "Desafio Front-end Angular",
-      "date": "2025-03-01",
-      "description": "O desafio consiste em criar um aplicativo de lista de tarefas com duas telas principais"
-    },
-    {
-      "id": "bbae",
-      "name": "teste 1",
-      "date": "2025-03-26",
-      "description": "testando"
-    },
-    {
-      "id": "be4f",
-      "name": "teste 2",
-      "date": "2025-03-29",
-      "description": "testando"
-    }
-  ]
+  "tasks": []
 }
