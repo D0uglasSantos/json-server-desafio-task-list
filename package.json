@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npm install",
     "prestart": "chmod +x node_modules/.bin/json-server",
-    "start": "npx json-server --watch db.json --port 3001 --static ./dist"
+    "start": "npx json-server --watch db.json --port 3001"
   },
   "keywords": [],
   "author": "",
