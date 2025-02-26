@@ -1,7 +1,7 @@
 {
   "name": "json-server",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "npx json-server --watch db.json --port 3001"
   },
